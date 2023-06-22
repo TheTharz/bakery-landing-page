@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bakery-landing-page/static/css/main.5c74a9d7.css",
+    "main.js": "/bakery-landing-page/static/js/main.2d7b24e4.js",
+    "index.html": "/bakery-landing-page/index.html",
+    "main.5c74a9d7.css.map": "/bakery-landing-page/static/css/main.5c74a9d7.css.map",
+    "main.2d7b24e4.js.map": "/bakery-landing-page/static/js/main.2d7b24e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c74a9d7.css",
+    "static/js/main.2d7b24e4.js"
+  ]
+}
